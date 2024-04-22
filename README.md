@@ -5,17 +5,6 @@
 | Focus  | works with dev & ops for software delivery lifecycyle | ensures reliabliity, scalability & performance                                                           |
 | Goals  | Faster delivery, increased deployment frequency,      | system reliability, availability, and performance through scalable and sustainable operations |
 
-
-#### SLA - Service level agreement
-commitment between service provider and customer, Like 99% SLA 
-how reliable/available the system is to its end users expressed in percentage
-
-example
-SLA for Accessibility 
-SLA for Response Time 
-SLA for Error Rate
-
-
 #### DHCP - **Dynamic Host Configuration Protocol**
 It is a protocol that allows networks to dynamically allocate IP addresses to hosts on the network
 
@@ -58,3 +47,17 @@ examples: KSH,SH,BASH,ZSH
 network of servers that stores and distributes content to clients.
 CDNs are most commonly used to store static content, such as images and videos
 example: Cloudflare CDN 
+
+#### Service Level Objective (SLO)
+Service Level Objective is a performance target set by a service provider to ensure the quality of their service.
+
+often expressed as a percentage of uptime or response time
+
+#### SLA - Service level agreement
+commitment between service provider and customer, Like 99% SLA 
+how reliable/available the system is to its end users expressed in percentage
+
+example
+SLA for Accessibility 
+SLA for Response Time 
+SLA for Error Rate
